@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  padding: 30px;
+}
+p {
+  margin: auto;
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+  font-family: sans-serif;
+}
